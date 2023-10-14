@@ -1,4 +1,16 @@
+
+
 Hi
+
+public static void main();
+{
+ system .out.println("ANUPRIYA")
+}
+
+public static void main();
+{
+ system
+ .out.println("singh")
 
 public static void main();
 {
